@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 I am you father and I love you.
 add merge.
+I love you father and mother.
 Creating a new branch is quick and simple.
